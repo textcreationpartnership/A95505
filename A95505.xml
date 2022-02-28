@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petitionary epistle directed to the Lord Protector, and people of the Commonwealth of England, Scotland, and Ireland, to continue in unity.</title>
+            <author>N. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95505</idno>
+            <idno type="STC">Wing T37</idno>
+            <idno type="STC">Thomason E936_7</idno>
+            <idno type="STC">ESTC R207718</idno>
+            <idno type="EEBO-CITATION">99866755</idno>
+            <idno type="PROQUEST">99866755</idno>
+            <idno type="VID">168509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168509)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E936[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petitionary epistle directed to the Lord Protector, and people of the Commonwealth of England, Scotland, and Ireland, to continue in unity.</title>
+                  <author>N. T.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.T.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "marsh. 19 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168509:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Petitionary</hi> EPISTLE Directed to the <hi>LORD PROTECTOR,</hi> AND People of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to continue in unity.</head>
+            <opener>
+               <salute>GREAT SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>OR ſo You are, God having exalted You to be the abſoluteſt Imperial Chiefe, that hitherto hath Headed theſe Nations; our preceding Bleſ<g ref="char:EOLhyphen"/>ſings fils us with hopes of future Suc<g ref="char:EOLhyphen"/>ceſſes; our Faith cannot miſcarry if diffidence in You, &amp; diſobedience in the Peeple, prove not the Rocks to ſplit this glorious Veſſel of <hi>Englands</hi> Commonwealth, and its chiefe Commander, upon their en<g ref="char:EOLhyphen"/>trance
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:168509:2"/>
+and into the Harbour of Peace and Honor: Therefore in the love of Chriſt I beſeech you not to take amiſs my ho<g ref="char:EOLhyphen"/>neſt plainneſs, which will keep at diſtance from indecent rudeneſs.</p>
+            <p>Though in the cure of theſe diſtempers I lanch deep into the ſore of corruption, and apply Corroſives to cleanſe it, you ſhall have balm to heal it without a ſcar, and Cordialls to cheriſh and ſtrengthen the Vitals.</p>
+            <p>My Lord, I addreſs to you, Recollect what you were, con<g ref="char:EOLhyphen"/>ſider what you are; who hath choſen you, and what you are to do for him, read <hi>Deut.</hi> 17. from Ver. 14. to the end, your Office is there bounded. Peruſe the 18. of <hi>Jeremiah,</hi> and turn over the Records of <hi>Jeroboam</hi> and <hi>Jehu;</hi> let their ſleigh<g ref="char:EOLhyphen"/>tings of the Promiſes annexed to their preferment, and the ſuperſtructures of their owne devices added to the Lords foundation, be ponder'd by you: The Lord hath given you a heart and head ſutable to the work he hath deſign'd you for; The world will witneſs while it continues, that you have an immenſe portion of prudence and courage, yet you have not done the work that is expected from you; the heady, ſtiff-neckt diſobedience of the people forcing you to run in<g ref="char:EOLhyphen"/>to your ſelf, which will never do the work.</p>
+            <p>You have been excellent in modelling, framing and regu<g ref="char:EOLhyphen"/>lating of Armies; but how fruitleſs hath been your purging forming, and creating of Parliaments? the Lord having blaſted all your undertakings in that kinde, the reaſon bee<g ref="char:EOLhyphen"/>ing not ſeen, if diſcern'd, not deſired. My Lord ſubmit onely to the Lord Almighty in this particular, and he will give your Subjects hearts to maintain you in that Throne he hath made their hands to lift you into: My prayers and la<g ref="char:EOLhyphen"/>bours have been, and are, that your Glory may not onely continue, but increaſe.</p>
+            <p>A great conteſt is between you and the People, as to the Election of a Parliament, God can and will onely umpire it; truſt him with both your intereſts, and make your Ele<g ref="char:EOLhyphen"/>ctions by lot; divide and rule, is <hi>Machivil's</hi> Maxime; but
+<pb n="3" facs="tcp:168509:2"/>
+diviſion is the mother of deſtruction, is Chriſts Aſſertion.</p>
+            <p>Brethren of this united Common-wealth, of what judg<g ref="char:EOLhyphen"/>ment ſoever you be, in all Chriſtian love I come to you, and wiſh that as ſo many beautiful and ſweet flowers growing in the Lords garden, you may be choſen in your ſeveral varie<g ref="char:EOLhyphen"/>ties, gifts and operations, to be included in the ſilken bond of Peace to make a Poeſie that may be pleaſing both in the eyes and noſtrills of the Prince of Peace.</p>
+            <p>What are you weary of your well-being? <hi>David's</hi> com<g ref="char:EOLhyphen"/>plaint was, <hi>Lord where are thy loving kindneſſes? haſt thou for<g ref="char:EOLhyphen"/>got to be merciful?</hi> But inſtead thereof, the Lord complains, <hi>How are my mercies and deliverances forgotten?</hi> Have I not freed you from ſervitude both ſpiritual and temporal? have I not cleanſed you from your own blood you lately wallow<g ref="char:EOLhyphen"/>ed in by a civil war? Have I not remov'd the Peſtilence from you, and not ſuffered the Famine to approach you? Have not I given you faithful, wiſe and couragions Gover<g ref="char:EOLhyphen"/>nors that have made you quiet at home, feared abroad, and famous to all Nations? But what hath been your return un<g ref="char:EOLhyphen"/>to him for all theſe mercies, except pride, covetouſneſs, hy<g ref="char:EOLhyphen"/>pocriſie, and diſobedience? for which you muſt expect fear<g ref="char:EOLhyphen"/>ful judgments, unleſs a timely return by repentance and a<g ref="char:EOLhyphen"/>mendment be ſpeedily made with all ſubmiſsion to the Lords Ordinance by himſelf conſtituted, continued and approved; the neglect and breach of which hath brought you into all theſe contentions; greater calamities are you falling into, un<g ref="char:EOLhyphen"/>leſs you agree to prevent them in leaving it to beidecided by our merciful Lord God, who onely can compoſe it.</p>
+            <p>Parliaments are like the brazen Serpent; once your cure, now your idol; ſee, what have they done, ſince the firſt Scottiſh Kings reign, till this time: Say, if any one begun &amp; ended to the Prince and peoples content; what inconveni<g ref="char:EOLhyphen"/>ences have not ſome brought? how have you eſteemed of of them? How have ſome of them acted that which they condemn'd unlawful in the Star-chamber-practice upon <hi>Burton, Pryn,</hi> and <hi>Baſtwick?</hi> How have their Acts been late<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:168509:3"/>
+violated? witneſs the laſt Act for Priſoners, ſuſpended at the arbitrary pleaſures of ſome during the intervals of Par<g ref="char:EOLhyphen"/>liaments Seſſions: And thoſe Acts which provide for the diſpoſe of treaſure, broken by factious perſons, and when complained on, not onely connived at, but alſo countenan<g ref="char:EOLhyphen"/>ced by ſome in Parliament; which if you be not carefull to preſerve thoſe Laws you finde, you teach the people to break thoſe you make. How can you hope for any good to be ef<g ref="char:EOLhyphen"/>fected by Parliaments as now elected? Have you not ſeen ſometimes the Presbyterian, otherwhile the Independent? nay, have you not complain'd of a Cavalier-prevailing par<g ref="char:EOLhyphen"/>ty in them? You know it is a remnant that is faithfull: How oft have you ſuggeſted the major part to bee corrupt, which hath cauſed you to purge Parliaments, and gave you an entrance into Scotland; And can you forget how in the laſt Parliament in the very beginning by thoſe factious Ele<g ref="char:EOLhyphen"/>ctions they had choſen Members, which if the Lord in mer<g ref="char:EOLhyphen"/>cy had not reſtrained them, before this time we ſhould have been plunged in blood and deſtruction. I tremble when I think on the <hi>Hazlerig</hi>-troop of ſecluded Remonſtrants in the beginning of that Parliament, did term him whom the Lord choſe, and themſelves fought with in the ſame cauſe for their Countrys redemption, Tyrant and Uſurper. How have they by ther murmurings and provocations cauſed him (like <hi>Moſes</hi>) to ſtrike when he ſhould but ſpeake? and by their frowardneſs and ragings, forced him (as <hi>Aaron</hi>) to make a Calfe like the Aegyptian Ox, an other Houſe inſtead of a Houſe of Peers? But we hope the vanity of Meſſages and Meſſengers during the laſt fortnights ſitting, wil for the future free us from the like miſchieves.</p>
+            <p>How at preſent do we plunge him to preſerve us? Alas! the quarrell is between Chriſt and Antichriſt: Are not He and the King of <hi>Sweden</hi> the prime Champions or Chriſten<g ref="char:EOLhyphen"/>dome that ſtand for the reformed Religion? Look round about you, and ſee if you are not in the midſt of flames; you will finde Tinder-boxes and Fuell from all parts to in<g ref="char:EOLhyphen"/>creaſe
+<pb n="5" facs="tcp:168509:3"/>
+them, and factious bellows to blow them higher, but few to bring a bucket of water to quench them. Conſider what condition you are in; you have yet peace at home, the Portugal, French Dane, Dutch and Spaniſh have for their affronts ſought compliance, or ſuffered for not doing of it: What would you have him to do? how ſupport the Armies and Navies? hath he had Kings, Biſhops, Deans and Chap<g ref="char:EOLhyphen"/>ters with Delinquents Lands? Or, are they diſperſed among the people? How hath this Citie lately in a manner had cities added to it? Where are his banks, favourites, riots, works of oſtentation, for which he extorts your treaſure, and miſ-imployes it? You Citizens, can you bee wiſe and provident in your particulars, as in adventuring your wealth to ſea, engage your credit, and with patience expect a gainful return; and you Countrey-men the like in your crops; and will it not perſwade you to the like cheerfull pa<g ref="char:EOLhyphen"/>tience when the welfare and honor of the Publike is con<g ref="char:EOLhyphen"/>cern'd? Will you when you are by your skilful ſtout Pilot whom the Lord enabled to ſteer you ſafely in all your by<g ref="char:EOLhyphen"/>paſt ſtorms and dangers, and hath brought you even to your deſired Havens mouth, the windes riſing high and the rocks in his way, will you then binde your Pilot hand and foot, and wilfully caſt him, and your ſelves away? You ſee your dan<g ref="char:EOLhyphen"/>ger, and neceſſity, and be aſſured no Forrainer ſides with any that are declared enemies to this Nation, but for their own advantage, our deſtruction. To prevent which, ſtand upon your Guards both by Sea and Land, enable our Pro<g ref="char:EOLhyphen"/>tector accordingly, you have had long experience of him, and the Lords love to him; Petition him ſpeedily to ſettle all differences, by calling of a Parliament, in which improve your reaſon and prudence to exempt malignant and lewd perſons, and ſuch as are factious, and according to your judgements and affections, make choice of ſuch as ſhall beſt like you, and though they have never ſo few voices let them come to the lot; you have no other way then this left you, it will give quiet, and the Lord will bleſs it, for the excel<g ref="char:EOLhyphen"/>lent
+<pb n="6" facs="tcp:168509:4"/>
+and frequent uſe of it, read how the Land of promiſe was divided by it, <hi>Achan</hi> diſcover'd, <hi>Saul</hi> elected King by it, <hi>Ionah</hi> detected; it periods all differences, it preſerves Chriſts Coat whole, which you Epiſcopal, Independent, Rebaptized, Presbyters, Quakers, &amp; others, do all pretend to, &amp; are ambiti<g ref="char:EOLhyphen"/>ous to ingroſs, &amp; ſo tug &amp; contend for it, that you wil tear it in pieces unleſs you are as wiſe and civil as the ſouldiers who caſt lots for it. Yee are all alike aſpiring like the ſonns of <hi>Zebedee,</hi> to ſit at the right and left hand of Chriſt; to have the Magiſtracy and Miniſterie in your power; but the Lord by this will diſpoſe them to ſuch as himſelf can onely ſearch and findes to be upright-hearted: This was the way the A<g ref="char:EOLhyphen"/>poſtles followed after their wiſdomes and affections had vo<g ref="char:EOLhyphen"/>ted two Competitors, one of them muſt ſupply <hi>Iudas</hi> his vacancy, and <hi>Mathias</hi> by it was admitted to the Apoſtleſhip; This way the Lord will continue till the end of time; for in the end of days <hi>Daniel</hi> ſhal ſtand in his lot, <hi>Dan.</hi> 12.13.</p>
+            <p>Now that you may be perſwaded to imbrace this Ordi<g ref="char:EOLhyphen"/>nance, give me leave to ſhew you where the Lords diſplea<g ref="char:EOLhyphen"/>ſure hath gently chaſtiſed the infringement of it: Call to minde when ſuccours were to be ſent to relieve our diſtreſ<g ref="char:EOLhyphen"/>ſed Brethren in Ireland, the ſupplies were drawn forth by lot, the Lord Lambert and Col. Scroop, both gallant and faithful perſons were choſen by it, the Lord <hi>Lambert</hi> for reaſons beſt known to the then Governors, did not go when God by it ſaid Go; but after when he would have gone in ſplendor he was eclipſed and with-held, and Col. <hi>Scroop</hi> who had ſubmitted to the Lot, and after Election refuſed to go, his Regiment ſuddenly broke and moulder'd away. Lay theſe gentle corrections to heart, and joyn all by prayer to God, and petition to the Protector that you may thus elect a Par<g ref="char:EOLhyphen"/>liament; it wiil quiet all diſtractions, and unite the Mem<g ref="char:EOLhyphen"/>bers with their Head; none dare or can oppoſe it, but ſuch whoſe conſciences judge themſelves unworthy of it; whoſe hearts tell them the Lord knows them, and will not admit
+<pb n="7" facs="tcp:168509:4"/>
+them by it Conſider you are a People bleſt by God, the wonder of the world, and that the Lord hath given you a CHIEF which hath exceeded all Preſidents, and will bee a pattern to Poſteritie. The Lord in his abundant mercie in<g ref="char:EOLhyphen"/>grave upon your hearts and bring the meditation often to your mindes of <hi>Samuels</hi> warning to the Iſraelites, 1 <hi>Sam.</hi> 12.24, 25. <hi>Onely fear the Lord, and ſerve him in truth with all your heart; for conſider how great things he hath done for you.</hi>
+            </p>
+            <p>
+               <hi>But if you ſhall ſtill do wickedly, yoe ſhall be conſumed both ye and your King.</hi> Which the Lord for the love of his Son Chriſt Jeſus avert, is the fervent prayer of</p>
+            <closer>
+               <signed>Your obedient ſubject and chriſtian brother, <hi>N. T</hi>
+               </signed>
+               <dateline>
+                  <hi>From a loyal &amp; loving heart,</hi> 
+                  <date>March 22. 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THis piece is like the wedding ſupper; ſee <hi>Luk:</hi> 14 from Ver. 24. to 26. it was intended to the Go<g ref="char:EOLhyphen"/>vernors, but could not get admittance; the governed are equally loved and concerned, and therefore invi<g ref="char:EOLhyphen"/>ted: the ſeed is from above, 'tis now ſown (though by a weak hand,) God in his time will bleſs it with increaſe: The ſowers reward will bee as the poore man's that ſav'd a city, <hi>Eccle.</hi> 9.15. But I have done my duty; and that's my comfort.</p>
+            <epigraph>
+               <q xml:lang="lat">
+                  <bibl>Horace.</bibl>
+                  <lg>
+                     <l>Eſt modus in rebus, ſunt certi deni<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> fines,</l>
+                     <l>Quos ultra citraque nequit conſiſtere rectum.</l>
+                  </lg>
+               </q>
+               <q>
+                  <lg>
+                     <l>In things there is a meaſure, and an end,</l>
+                     <l>Which <hi>RIGHT</hi> on this, or that hand will not bend,</l>
+                  </lg>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
